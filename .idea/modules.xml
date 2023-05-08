@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/5-5-2023.iml" filepath="$PROJECT_DIR$/.idea/5-5-2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayLIstEjemplo1Tema6/ArrayLIstEjemplo1Tema6.iml" filepath="$PROJECT_DIR$/ArrayLIstEjemplo1Tema6/ArrayLIstEjemplo1Tema6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjerciciosColecciones1/EjerciciosColecciones1.iml" filepath="$PROJECT_DIR$/EjerciciosColecciones1/EjerciciosColecciones1.iml" />
+    </modules>
+  </component>
+</project>
